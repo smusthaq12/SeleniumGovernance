@@ -58,7 +58,7 @@
                 <version>3.11.0</version>
                 <configuration>
                     <!-- Define the prefix used to call the plugin from CLI -->
-                    <goalPrefix>reviewer</goalPrefix>
+                    <goalPrefix>scan</goalPrefix>
                 </configuration>
             </plugin>
         </plugins>
