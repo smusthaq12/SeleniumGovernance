@@ -1,0 +1,2 @@
+before_install:
+  - sed -i "s|<version>\${jitpack.version}</version>|<version>${VERSION}</version>|g" pom.xml
